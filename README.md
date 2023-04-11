@@ -29,7 +29,7 @@ try {
 }
 ```
 
-###`addContextToError(error)`
+### `addContextToError(error)`
 
 Adds context information to an error object.
 
